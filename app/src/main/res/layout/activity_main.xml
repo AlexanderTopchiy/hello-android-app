@@ -24,7 +24,7 @@
             android:layout_centerInParent="true"
             android:layout_margin="20dp"
             android:text="@string/header"
-            android:textColor="#263238"
+            android:textColor="@color/header"
             android:textSize="28sp" />
 
         <TextView
@@ -36,7 +36,7 @@
             android:layout_margin="10dp"
             android:gravity="end"
             android:text="@string/credits"
-            android:textColor="#FAFAFA"
+            android:textColor="@color/info"
             android:textSize="25sp"
             android:textStyle="bold" />
 
