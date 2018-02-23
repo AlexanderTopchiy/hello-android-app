@@ -12,7 +12,7 @@ This is a simple app, just showing some information (in the form of a card) abou
 
 ## One-file installation
 
-Here is the [APK file](https://www.dropbox.com/s/lgb38kvhz0wzx3a/helloandroid.apk?dl=0).
+Here is the [APK file](https://www.dropbox.com/s/3uhyju5gr5lede7/helloandroid.apk?dl=0).
 
 ## License
 ```
